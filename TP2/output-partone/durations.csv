@@ -1,0 +1,8 @@
+,0
+Batch Gradient Descent,9.876573324203491
+Mini Batch Gradient Descent,46.493687868118286
+Stochastic Gradient Descent,2666.381087064743
+Mini Batch GD With Learning rate decay,47.43277335166931
+Mini Batch GD With Learning rate decay and momentum,48.78253674507141
+Adam,50.858642578125
+RMSProp,48.64963173866272

@@ -1,0 +1,9 @@
+,0
+Mini-Batch SGD,90.48118162155151
+Mini-Batch SGD + Early Stopping,87.5120279788971
+Mini-Batch SGD With L2 Nomralization,89.29532361030579
+Mini-Batch SGD With Dropout Rate = 0.2,91.53579711914062
+Mini-Batch SGD With Dropout Rate = 0.3,92.66830849647522
+Mini-Batch SGD With Dropout Rate = 0.5,92.17223191261292
+Mini-Batch SGD With Batch Normalization,94.82651734352112
+Random Search,177.41173601150513
